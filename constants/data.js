@@ -1,4 +1,4 @@
-export const data = [
+const data = [
     {
         title: 'Akshay Kumar Bell Bottom screened at world highest mobile theatre in Ladakh',
         author: 'Sakshita Khosla',
@@ -129,3 +129,5 @@ export const data = [
     }
 
 ];
+
+export default data;
