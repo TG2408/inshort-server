@@ -5,7 +5,7 @@ import express from "express";
 //Components import
 import connection from "./connection/db.js";
 import DefaultData from "./default.js";
-import Route from "color-convert/route.js";
+import Route from "./routes/route.js";
 
 const app = express();
 

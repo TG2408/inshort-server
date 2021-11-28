@@ -7,4 +7,4 @@ const Route = express.Router();
 
 Route.get('/news' , getNews);
 
-export default route;
+export default Route;
