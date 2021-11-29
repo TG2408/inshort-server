@@ -14,7 +14,7 @@ const data = [
         description: 'New Zealand were dismissed for 60 runs in the first T20I against Bangladesh at the Shere Bangla National Stadium in Dhaka today. It is New Zealand joint-lowest total in T20I history. They were dismissed for 60 by Sri Lanka in a T20I in 2014. Only captain Tom Latham (18) and Henry Nicholls (18) managed to score in double digits today.',
         url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/1_wed/img_1630501818892_480.jpg',
         timestamp: '2021-09-01T13:15:34.000Z',
-        link: 'icc-cricket.com/match/32273?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts#scorecard',
+        link: 'https://icc-cricket.com/match/32273?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts#scorecard',
         publisher: 'ICC'
     },
     {
@@ -23,7 +23,7 @@ const data = [
         description: 'Veterinarians in Pune have for the first time successfully performed hernia surgery on a three-year-old dog. The dog owner said that its condition has improved since the surgery, adding, The surgery has made us realise that even animals suffer diseases like humans but cant express it like us. The dog, named Rolly, has had only one kidney since birth.',
         url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/4_sat/img_1630728304437_748.jpg',
         timestamp: '2021-09-04T04:20:02.000Z',
-        link: 'icc-cricket.com/match/32273?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts#scorecard',
+        link: 'https://icc-cricket.com/match/32273?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts#scorecard',
         publisher: 'Times of India'
     },
     {
@@ -79,7 +79,7 @@ const data = [
         description: 'New Zealand were dismissed for 60 runs in the first T20I against Bangladesh at the Shere Bangla National Stadium in Dhaka today. It is New Zealand joint-lowest total in T20I history. They were dismissed for 60 by Sri Lanka in a T20I in 2014. Only captain Tom Latham (18) and Henry Nicholls (18) managed to score in double digits today.',
         url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/1_wed/img_1630501818892_480.jpg',
         timestamp: '2021-09-01T13:15:34.000Z',
-        link: 'icc-cricket.com/match/32273?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts#scorecard',
+        link: 'https://icc-cricket.com/match/32273?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts#scorecard',
         publisher: 'ICC'
     },
     {
@@ -88,7 +88,7 @@ const data = [
         description: 'Veterinarians in Pune have for the first time successfully performed hernia surgery on a three-year-old dog. The dog owner said that its condition has improved since the surgery, adding, The surgery has made us realise that even animals suffer diseases like humans but cant express it like us. The dog, named Rolly, has had only one kidney since birth.',
         url: 'https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/09_sep/4_sat/img_1630728304437_748.jpg',
         timestamp: '2021-09-04T04:20:02.000Z',
-        link: 'icc-cricket.com/match/32273?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts#scorecard',
+        link: 'https://icc-cricket.com/match/32273?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts#scorecard',
         publisher: 'Times of India'
     },
     {
